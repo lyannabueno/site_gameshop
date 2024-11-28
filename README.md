@@ -3,9 +3,9 @@
 ![image](https://github.com/lyannabueno/site_gameshop/assets/130186281/7719d3b9-9015-40bb-9bb1-bb14fac98014)
 
 ## Features 🌟
-- **Menu de Navegação:** O menu na parte superior da página permite aos usuários navegar rapidamente entre as seções "Sobre a loja" e "Contato"
-- **Conexões com Redes Sociais:** Há uma lista de ícones clicáveis que levam os usuários às redes sociais da loja
-- **Endereço Físico:** A seção "Venha até nós" fornece o endereço físico da loja, ajudando os clientes a encontrá-la facilmente
+- **Navigation Menu:** The menu at the top of the page allows users to quickly navigate between the "About the Store" and "Contact" sections.
+- **Social Media Links:** There is a list of clickable icons that take users to the store's social media pages.
+- **Physical Address:** The "Come Visit Us" section provides the store's physical address, helping customers find it easily.
 
 ## Technologies Used 📚
 
